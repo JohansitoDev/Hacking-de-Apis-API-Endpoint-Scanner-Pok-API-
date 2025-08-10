@@ -1,0 +1,5 @@
+bulbasaur
+charmander
+squirtle
+pikachu
+9999
